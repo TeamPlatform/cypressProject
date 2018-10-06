@@ -1,0 +1,15 @@
+{
+    "description": "Cypress end to end tests",
+    "private": true,
+    "scripts": {
+        "cypress:open": "cypress open",
+        "cypress:run": "cypress run"
+    },
+    "devDependencies": {
+        "cypress": "^3.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@amy-vwebci:ami-reduced"
+    }
+}
